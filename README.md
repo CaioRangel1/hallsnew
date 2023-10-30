@@ -8,6 +8,12 @@ Esse é o repositório de código do projeto NIMBUS abaixo o link para o primeir
 
 ## Pesquisa de componentes
 
+### Leaflet
+é uma biblioteca de criação de mapas, ele é ativamente mantido e já usa a versão Leaflet 1.0.0.
+
+### Pigeon 
+Essa é uma biblioteca de mapeamento muito especial porque ela não tem dependências externas. Por enquanto, você pode apenas exibir sobreposições e marcadores em um mapa base, então isso pode ser útil para um mapa de localizador muito simples.
+
 ### Participantes :trophy: 
 - Márcio Moreira
 - Douglas da Silva
